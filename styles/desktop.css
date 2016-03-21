@@ -5,9 +5,11 @@
 	margin: auto;
 }
 
+/*New comment*/
+
 .promo_header {
-	height: 150px;
-	line-height: 150px;	
+	height: 112;
+	line-height: 112px;	
 }
 
 .promo_logo > li, .promo_buttons > li{
@@ -37,7 +39,7 @@
 }
 
 .promo_button-logIn {
-	margin: 10px;
+	margin: 100px;
 }
 
 .promo_button-signIn > a {
